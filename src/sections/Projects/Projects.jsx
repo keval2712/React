@@ -18,13 +18,13 @@ function Projects() {
         />
         <ProjectCard
           src={viberr}
-          link="https://github.com/keval2712/React/tree/main/my-app"
+          link="https://github.com/keval2712/React.js/tree/main/my-app"
           h3="text edit"
           p="Text-utils"
         />
               <ProjectCard
           src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/keval2712/kevalponkiya-portfolio"
           h3="sample resume"
           p="portfolio"
         />
